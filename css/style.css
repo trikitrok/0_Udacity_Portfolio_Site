@@ -7,11 +7,11 @@ body {
 hr {
     border: none;
     height: 2px;
-    background-color: #BCBBBB;
+    background-color: #bcbbbb;
 }
 
 .text-muted {
-  color: #BCBBBB;
+  color: #bcbbbb;
 }
 
 .text-thin {
@@ -24,6 +24,7 @@ hr {
 
 .central-img {
     margin: 0 auto;
+    max-width: 100%;
 }
 
 @media only screen and (max-width: 630px) {
